@@ -1,6 +1,12 @@
-body {
+#pokemonSprite {
+
     height: 400px;
     width: auto;
     background-color: red;
 
+}
+ol {
+    
+    font-size: 40px;
+    font-weight: bold;
 }
